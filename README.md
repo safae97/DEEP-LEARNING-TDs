@@ -1,7 +1,11 @@
 **📌 FIRST PART : NYSE Stock Price Prediction using PyTorch**
 
-**Objective**
-Familiarize with PyTorch by implementing regression using Deep Neural Networks (DNN/MLP) on NYSE stock prices.
+**What I Learned from This Lab**
+During this lab, I gained hands-on experience with PyTorch for regression tasks, learning how to build and train a Deep Neural Network (DNN) for stock price prediction. I explored the NYSE dataset, performed Exploratory Data Analysis (EDA), and applied feature scaling to preprocess the data.
+
+Through model training and hyperparameter tuning, I understood the impact of different architectures, optimizers, and learning rates on model performance. Additionally, I experimented with regularization techniques (Dropout & L2) to reduce overfitting and improve generalization.
+
+Overall, this lab enhanced my understanding of deep learning for regression, model optimization, and the importance of visualizing training metrics to assess performance. It also strengthened my ability to apply ML concepts in real-world financial datasets.
 
 **Dataset**
 - **Source**: [NYSE Dataset on Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse)
