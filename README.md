@@ -1,14 +1,14 @@
-**# 📌 FIRST PART : NYSE Stock Price Prediction using PyTorch**
+**📌 FIRST PART : NYSE Stock Price Prediction using PyTorch**
 
-**## Objective**
+**Objective**
 Familiarize with PyTorch by implementing regression using Deep Neural Networks (DNN/MLP) on NYSE stock prices.
 
-**## Dataset**
+**Dataset**
 - **Source**: [NYSE Dataset on Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse)
 - **Features**: `open`, `high`, `low`, `volume`
 - **Target**: `close`
 
-**## Work Done**
+**Work Done**
 
 ### **1. Exploratory Data Analysis (EDA)**
 - **Checked**: Missing values, statistical summary
