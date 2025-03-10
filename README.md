@@ -40,7 +40,7 @@ Familiarize with PyTorch by implementing regression using Deep Neural Networks (
 - Applied **Dropout & L2 regularization**
 - **Improved** model generalization and reduced overfitting
 
-**## Results & Observations**
+**Results & Observations**
 ✔ Model effectively learned stock price relationships
 ✔ Regularization improved performance
 ✔ Best setup: **ReLU + Adam + L2 regularization**
