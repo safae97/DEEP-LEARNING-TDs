@@ -1,4 +1,4 @@
-**📌 FIRST PART : NYSE Stock Price Prediction using PyTorch**
+**📌 Atelier1 : NYSE Stock Price Prediction using PyTorch**
 
 **What I Learned from This Lab**
 During this lab, I gained hands-on experience with PyTorch for regression tasks, learning how to build and train a Deep Neural Network (DNN) for stock price prediction. I explored the NYSE dataset, performed Exploratory Data Analysis (EDA), and applied feature scaling to preprocess the data.
@@ -53,6 +53,34 @@ Overall, this lab enhanced my understanding of deep learning for regression, mod
 
 
 ---
+
+**📌 Atelier2: CNN, Faster R-CNN, and ViT for MNIST Classification**
+
+### **What I Learned from This Lab**
+During this lab, I gained hands-on experience with PyTorch to develop deep learning models for computer vision tasks. I built and trained CNN and Faster R-CNN architectures for MNIST classification, exploring different hyperparameters such as kernel size, padding, stride, optimizers, and regularization techniques.
+
+I also fine-tuned pre-trained models (VGG16 and AlexNet) on MNIST and compared their performance against CNN and Faster R-CNN. Additionally, I implemented a Vision Transformer (ViT) from scratch following an online tutorial and evaluated its classification performance.
+
+Through this process, I deepened my understanding of neural network architectures, transfer learning, and model optimization. The comparative analysis between CNN, Faster R-CNN, and ViT provided valuable insights into their strengths and weaknesses in image classification tasks.
+
+
+
+### **Models Implemented**
+- **CNN**: Built from scratch with convolutional, pooling, and fully connected layers.
+- **Faster R-CNN**: Implemented for object detection and classification.
+- **Transfer Learning**: Fine-tuned pre-trained VGG16 and AlexNet on MNIST.
+- **Vision Transformer (ViT)**: Developed from scratch and applied to MNIST classification.
+
+### **Comparison & Analysis**
+- Evaluated models based on accuracy, F1-score, loss, and training time.
+- Assessed the impact of transfer learning on performance.
+- Compared CNN, Faster R-CNN, and ViT architectures.
+
+----
+
+
+
+
 
 📌 Developed by: **Safae Hammouch**
 
